@@ -8,3 +8,8 @@ C:\Users\400400817\Desktop\TKUCourseChtHttpWebPost\TKUCourseChtHttpWebPost\obj\R
 C:\Users\400400817\Desktop\TKUCourseChtHttpWebPost\TKUCourseChtHttpWebPost\bin\Release\TKUCourseChtHttpWebPost.exe
 C:\Users\400400817\Desktop\TKUCourseChtHttpWebPost\TKUCourseChtHttpWebPost\bin\Release\TKUCourseChtHttpWebPost.pdb
 C:\Users\400400817\Desktop\TKUCourseChtHttpWebPost\TKUCourseChtHttpWebPost\obj\Release\TKUCourseChtHttpWebPost.csprojResolveAssemblyReference.cache
+C:\Users\400400817\Desktop\新增資料夾\TKUCourseWebPostCHT\TKUCourseChtHttpWebPost\obj\Release\TKUCourseChtHttpWebPost.exe
+C:\Users\400400817\Desktop\新增資料夾\TKUCourseWebPostCHT\TKUCourseChtHttpWebPost\obj\Release\TKUCourseChtHttpWebPost.pdb
+C:\Users\400400817\Desktop\新增資料夾\TKUCourseWebPostCHT\TKUCourseChtHttpWebPost\bin\Release\TKUCourseChtHttpWebPost.exe
+C:\Users\400400817\Desktop\新增資料夾\TKUCourseWebPostCHT\TKUCourseChtHttpWebPost\bin\Release\TKUCourseChtHttpWebPost.pdb
+C:\Users\400400817\Desktop\新增資料夾\TKUCourseWebPostCHT\TKUCourseChtHttpWebPost\obj\Release\TKUCourseChtHttpWebPost.csprojResolveAssemblyReference.cache

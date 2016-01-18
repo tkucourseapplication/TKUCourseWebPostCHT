@@ -18,7 +18,7 @@ namespace TKUCourseChtHttpWebPost
 
             if (tkucourse.get_login_key() == false) Console.WriteLine("Cannot get the login key!!");
             Console.WriteLine("This program only provides ease of enrollment, developer for not assume any responsibility for the following conditions:\n1. Any error when using this program (including the program crashes, the school system revision, etc.).\n2. The use of any improper use.\n3. The breakdown of the above statements since many developers retain the final interpretation.\n＊ If you use it means that you have agreed to the above specification or else click \"X\" to exit the application.\n");
-            Console.WriteLine("This application version : v1.0 for Chinese Website\nMake sure to check the latest version from the following  URL http://tkucourseapplication.souceforge.net");
+            Console.WriteLine("This application version : v1.1 for Chinese Website\nMake sure to check the latest version from the following  URL http://tkucourseapplication.souceforge.net");
             Console.WriteLine("=====================================================");
             Console.Write("Please input your student ID : ");
             txt_StuID = Console.ReadLine();
@@ -138,7 +138,7 @@ namespace TKUCourseChtHttpWebPost
                 StreamReader sr = new StreamReader(webResp.GetResponseStream());
                 content = sr.ReadToEnd();
                 sr.Close();
-                if (content.IndexOf("「淡江大學個人化入口網」") != -1) return false;
+                if (content.IndexOf("「淡江大學單一登入(SSO)」") != -1) return false;
 
                 viewstate = content.Substring(content.IndexOf("__VIEWSTATE\" value=") + 20, content.IndexOf("\" />", content.IndexOf("__VIEWSTATE\" value=")) - content.IndexOf("__VIEWSTATE\" value=") - 20);
                 viewstate = System.Web.HttpUtility.UrlEncode(viewstate);
